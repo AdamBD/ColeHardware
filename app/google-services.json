@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "561195082668",
+    "firebase_url": "https://cole-hardware-b64fe.firebaseio.com",
+    "project_id": "cole-hardware-b64fe",
+    "storage_bucket": "cole-hardware-b64fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561195082668:android:d524983293c1c4ad",
+        "android_client_info": {
+          "package_name": "com.abdapps.colehardware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561195082668-2t7nli5kl5l894a343m36m61m4b3pvlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaeqopKT-UApcrfEBCqbBeLYUTcazCrMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
